@@ -16,6 +16,7 @@ public:
 
 public:
 
+    //1111
 	// ¶à×Ö·û×ª¿í×Ö·û
 	static std::wstring s2ws(const char* pStr,int len);  
 
